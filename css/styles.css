@@ -5,5 +5,9 @@ form {
   border-radius: 8px;
 }
 
-#form1 {
+label,
+input,
+select,
+button {
+  display: block;
 }
